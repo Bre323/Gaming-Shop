@@ -1,4 +1,7 @@
-# React + Vite
+# Gaming-Shop
+ - This is a page of a game shop developed with react and vite.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
